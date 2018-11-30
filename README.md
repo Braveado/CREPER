@@ -12,12 +12,12 @@
 - Gimp.
 
 ### Important features: 
-- Highly modifiable random map generator (dimensions, quantity and lenght of halls, etc.).
+- Highly modifiable random map generator (dimensions, quantity and length of halls, etc.).
 - Stamina system (energy for actions).
 - Health percent based field of view.
 - Responsive camera (movement, attacks, etc.).
 - Dodge with invincibility frames.
-- Minimap system with fog of war.
+- Mini map system with fog of war.
 - Sprites based animations.
 - Level and score indicators.
 - Melee and ranged weapons.
